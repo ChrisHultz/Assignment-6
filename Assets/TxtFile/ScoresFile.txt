@@ -1,0 +1,10 @@
+Player,70
+Chris,60
+Chris,50
+Christopher,50
+Bob,40
+Chris,20
+Bob,10
+AAA,0
+AAA,0
+AAA,0
